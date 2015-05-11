@@ -8,3 +8,4 @@ notifications:
     channels:
     - "irc.oftc.net#libpredict"
     use_notice: true
+    skip_join: true
